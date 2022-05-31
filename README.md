@@ -20,7 +20,7 @@
 ## I'm playing with/learning... 🧩
 ![React](https://img.shields.io/static/v1?label=&message=React&color=blue) ![Prisma](https://img.shields.io/static/v1?label=&message=Prisma&color=blueviolet) ![Elm](https://img.shields.io/static/v1?label=&message=Elm&color=9cf) ![ReasonML](https://img.shields.io/static/v1?label=&message=ReasonML&color=lightgrey)
 
-Most of this has been happening through [funcional-ssa](https://github.com/WithSocrates), of which I'm a maintainer of Frontend Project. We are an organization that hopes to discuss and popularize functional programming at Las Vegas, Nevada. We've been meeting to develop every weeks, usually using the "coding dojo" format. You can join me via [Skype](https://join.skype.com/live:.cid.fbc7b72eba1653db) or [Telegram](https://t.me/@devninza)!
+Most of this has been happening through [learnwithsocrates](https://github.com/WithSocrates), of which I'm a maintainer of Frontend Project. We are an organization that hopes to discuss and popularize functional programming at Las Vegas, Nevada. We've been meeting to develop every weeks, usually using the "coding dojo" format. You can join me via [Skype](https://join.skype.com/live:.cid.fbc7b72eba1653db) or [Telegram](https://t.me/@devninza)!
 
 <!--
 **Satosh-J/Satosh-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
